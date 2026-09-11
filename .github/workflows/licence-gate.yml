@@ -15,8 +15,9 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - uses: moodyjmz/licence-gate-tooling/actions/gate@75d994203742bbf3dfdd0eac0f1b640dff3ef38a
+      - uses: moodyjmz/licence-gate-tooling/actions/gate@f406f21a223d2cb67b3b2d3a7b6a8b90151e51ac
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base-sha: ${{ github.event.pull_request.base.sha }}
           head-sha: ${{ github.event.pull_request.head.sha }}
+          author: ${{ github.event.pull_request.user.login }}
