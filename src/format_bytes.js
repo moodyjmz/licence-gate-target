@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Example project contributors
+// SPDX-License-Identifier: Example-1.0
 // Utility copied verbatim from a third-party MIT-licensed project.
 // The original carried no header; its provenance is not the Example project.
 export function formatBytes(n) {
