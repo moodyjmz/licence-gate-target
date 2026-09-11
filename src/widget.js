@@ -5,6 +5,6 @@
  * You may obtain a copy at https://example.invalid/licence
  */
 
-export function widget() {
+export function widgetV2() {
   return "widget";
 }
