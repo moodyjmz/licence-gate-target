@@ -7,5 +7,5 @@
  */
 
 export function trojan() {
-  return "horse";
+  return "spearmen";
 }
