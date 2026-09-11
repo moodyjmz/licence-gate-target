@@ -12,6 +12,6 @@ jobs:
     concurrency:
       group: stdlicence-${{ github.event.issue.number }}
     steps:
-      - uses: moodyjmz/licence-gate-tooling/actions/std-licence@75d994203742bbf3dfdd0eac0f1b640dff3ef38a
+      - uses: moodyjmz/licence-gate-tooling/actions/std-licence@1865de2e0ae798ca42a620761c66ca7787f38381
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
