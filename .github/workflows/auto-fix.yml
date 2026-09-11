@@ -15,6 +15,6 @@ jobs:
     steps:
       # No checkout here: the action checks out the pull request branch itself, after
       # it has decided the commenter is allowed to make it do that.
-      - uses: moodyjmz/licence-gate-tooling/actions/auto-fix@75d994203742bbf3dfdd0eac0f1b640dff3ef38a
+      - uses: moodyjmz/licence-gate-tooling/actions/auto-fix@1865de2e0ae798ca42a620761c66ca7787f38381
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
