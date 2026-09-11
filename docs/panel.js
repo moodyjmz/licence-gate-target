@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2020 Example Corp
+ * Copyright 2020 Totally Different Owner
  *
  * Licensed under the Example License 1.0
  * You may obtain a copy at https://example.invalid/licence
