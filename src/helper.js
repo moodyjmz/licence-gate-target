@@ -3,3 +3,5 @@
 export function helper() {
   return "helper";
 }
+
+// legacy removed
