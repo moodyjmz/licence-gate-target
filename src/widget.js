@@ -1,3 +1,48 @@
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
+// project maintenance notes
 /**
  * Copyright (c) 2020 Example Corp
  *
@@ -6,5 +51,5 @@
  */
 
 export function widget() {
-  return "widget";
+  return "widget-v2";
 }
