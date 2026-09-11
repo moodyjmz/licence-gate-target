@@ -118,3 +118,5 @@ verified. Attacks that produce a visible error are not the dangerous ones.
 Fork or branch, open a pull request, watch the `gate` and `acknowledgement-gate`
 checks, and read the comment the gate posts. Then try to make that comment say
 something false.
+
+Some additional notes on usage.
