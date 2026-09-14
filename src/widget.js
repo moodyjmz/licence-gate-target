@@ -1,10 +1,9 @@
 /**
- * Copyright (c) 2020 Example Corp
  *
  * Licensed under the Example License 1.0
  * You may obtain a copy at https://example.invalid/licence
  */
 
 export function widget() {
-  return "widget";
+  return "widget v2";
 }
