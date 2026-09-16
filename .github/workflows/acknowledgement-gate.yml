@@ -21,7 +21,7 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - uses: moodyjmz/licence-gate-tooling/actions/acknowledgement@3dccb366374ec647aa2a7f7481f9fbdcbb210e82
+      - uses: moodyjmz/licence-gate-tooling/actions/acknowledgement@83c2fe11a4f5a6c7a8fd0502f725dee53db1abd4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           register-prefix: 'example-log:'
